@@ -1,0 +1,4 @@
+ver c = document.createElement("canvas");
+ver ctx = c.getContext("2d");
+c.width = 500;
+c.height = 350;
